@@ -153,14 +153,6 @@ div.item:hover>h2 {
 .footer>p:nth-child(1) {
 	font-size: 11px;
 }
-.contact__box>form:nth-child(5)>input:nth-child(8) {
-	background-color: #1C5195;
-	color: white;
-}
-.contact__box>form:nth-child(5)>input:nth-child(8) {
-	border: none;
-	padding: 0.2rem;
-}
 @media (max-width: 981px) {
 	.contact__button {
 		display: none;
