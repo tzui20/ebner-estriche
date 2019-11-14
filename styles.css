@@ -139,11 +139,11 @@ div.item:hover>h2 {
 }
 .contact__box {
 	text-align: left;
-	padding: 2rem;
-	width: 540px;
-	background-color: white;
-	border-radius: 8px;
-	margin: auto;
+    padding: 2rem;
+    width: 24%;
+    background-color: white;
+    border-radius: 8px;
+    margin: auto;
 }
 .footer {
 	text-align: right;
