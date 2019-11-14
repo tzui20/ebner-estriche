@@ -138,9 +138,9 @@ div.item:hover>h2 {
 	border-radius: 7px;
 }
 .contact__box {
-	text-align: left;
+    text-align: left;
     padding: 2rem;
-    width: 24%;
+    width: 310px;
     background-color: white;
     border-radius: 8px;
     margin: auto;
