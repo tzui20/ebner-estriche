@@ -127,6 +127,7 @@ div.item:nth-child(4) {
 	text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.3);
 	width: 290px;
 	text-align: -moz-right;
+	text-align: -webkit-right;
 }
 .hidden_content {
 	display: none;
