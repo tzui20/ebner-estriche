@@ -347,3 +347,6 @@ div.item:hover>h2 {
 }
 }
 
+.contact__box p {
+	margin-bottom: 25px;
+}
